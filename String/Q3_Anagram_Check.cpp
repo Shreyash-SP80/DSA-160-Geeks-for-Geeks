@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-/*
+/* 
     ----------------------------- Anagram Check -----------------------------
 
     Given two strings s1 and s2 (both containing only lowercase English letters),
@@ -77,3 +77,4 @@ int main() {
 
     return 0;
 }
+
