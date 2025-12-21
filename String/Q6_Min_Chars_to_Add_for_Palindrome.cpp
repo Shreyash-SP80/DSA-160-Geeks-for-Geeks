@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-/*
+/* 
     ------------------------ Min Chars to Add for Palindrome ------------------------
 
     Given a string s, find the MINIMUM characters to add at the FRONT
@@ -86,3 +86,4 @@ int main() {
 
     return 0;
 }
+
