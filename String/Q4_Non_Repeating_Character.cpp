@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
-    --------------------------- Non-Repeating Character ---------------------------
+    --------------------------- Non-Repeating Character --------------------------- 
 
     Given a string s consisting only of lowercase English letters,
     return the FIRST non-repeating character in s.
@@ -72,3 +72,4 @@ int main() {
 
     return 0;
 }
+
