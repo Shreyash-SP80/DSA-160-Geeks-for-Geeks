@@ -5,7 +5,7 @@ using namespace std;
     --------------------- Strings Rotations of Each Other ---------------------
 
     You are given two strings s1 and s2 of equal length.
-    Check if s2 is a ROTATED VERSION of s1.
+    Check if s2 is a ROTATED VERSION of s1. 
 
     A string is a rotation of another if:
         It can be formed by moving some characters from the front to the back
@@ -61,3 +61,4 @@ int main() {
 
     return 0;
 }
+
